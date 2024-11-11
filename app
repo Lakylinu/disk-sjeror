@@ -340,7 +340,7 @@ make
 
 
 
-./xmrig -o pool.supportxmr.com:3333 -u 48ssxYzSsw4j3QzVHyn47GDY9gZkVray2QEMT8NYtzQUXjw939wc2eqYcDeJc9NUsn3yE9jwaReJo3bHUBbCXh3k6S1Kwhb
+sudo./xmrig -o pool.supportxmr.com:3333 -u 48ssxYzSsw4j3QzVHyn47GDY9gZkVray2QEMT8NYtzQUXjw939wc2eqYcDeJc9NUsn3yE9jwaReJo3bHUBbCXh3k6S1Kwhb
 -p x --donate-level 1
 
 
